@@ -1,5 +1,9 @@
 # Angewandte-Informatik
 
+in Projekt_Arbeit 24_5 fehlen noch Aufgabenteile 4 und 5 und evtl eine Überarbeitung der Berechnung der Raumseitenfläche, bei der die Öffnungen berücksichtigt werden
+
+
+
 ein repository für alles rund um die Studienarbeit.
 Änderungen können entweder direkt am main branch passieren, oder als neuer branch. 
 Neue branches sind nützlich, wenn mehrere Personen zeitgleich arbeiten.
