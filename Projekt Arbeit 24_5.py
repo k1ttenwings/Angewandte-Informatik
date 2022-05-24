@@ -83,10 +83,6 @@ class Fenster:
 
 
 
-
-
-
-
 class Raum:
     Raumhoehe=0.0
     Waende=[Wand(),Wand(),Wand(),Wand()]
