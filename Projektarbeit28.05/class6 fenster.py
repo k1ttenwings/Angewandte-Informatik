@@ -9,7 +9,7 @@ class Fenster:
     Schallschutzklasse=""
     U_Wert=0.0
     FHersteller=""
-    Büstungshöhe=0.0
+    Brüstungshöhe=0.0
     
     def __init__(self,Ssk,U,Fh,BRH):
         self.Schallschutzklasse=Ssk
