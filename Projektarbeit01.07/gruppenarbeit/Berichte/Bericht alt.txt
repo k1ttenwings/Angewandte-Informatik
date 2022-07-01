@@ -1,0 +1,194 @@
+
+Müller, Thorben                                                    348238
+Köhler, Franziska                                                  297224
+Fluch, Moritz                                                      342373
+---------------------------------------------------------------------------------------
+Raumbuch
+----------
+1-Raum (Raumbezeichnung:, Raumnummer:)
+        Raumvolumen:8.0m³
+        Raumumfang:6.0m
+
+        Raumseitenfläche Brutto:12.0m²
+        Raumseitenfläche Netto:12.0m²
+
+Türliste:
+------------
+
+Fensterliste:
+------------
+1-Fenster (Höhe: 0.0m, Breite: 0.0m, Schallschutzklasse: 2, U-Wert: 0.0, Hersteller: 2, Brüstungshöhe: 0.0)
+2-Fenster (Höhe: 3m, Breite: 3m, Schallschutzklasse: 3, U-Wert: 0.0, Hersteller: 3, Brüstungshöhe: 0.0)
+
+---------------------------------------------------------------------------------------
+Ende des Berichts
+
+
+
+Müller, Thorben                                                               348238
+Köhler, Franziska                                                             297224
+Fluch, Moritz                                                                 342373
+---------------------------------------------------------------------------------------
+Raumbuch
+----------
+1-Raum (Raumbezeichnung:, Raumnummer:)
+        Raumvolumen:8.0m³
+        Raumumfang:6.0m
+
+        Raumseitenfläche Brutto:12.0m²
+        Raumseitenfläche Netto:12.0m²
+
+Türliste:
+------------
+
+Fensterliste:
+------------
+1-Fenster (Höhe: 0.0m, Breite: 0.0m, Schallschutzklasse: 1, U-Wert: 0.0, Hersteller: 1, Brüstungshöhe: 0.0)
+2-Fenster (Höhe: 1m, Breite: 1m, Schallschutzklasse: 1, U-Wert: 0.0, Hersteller: 1, Brüstungshöhe: 0.0)
+
+---------------------------------------------------------------------------------------
+Ende des Berichts
+
+
+
+
+
+
+Müller, Thorben                                                               348238
+Köhler, Franziska                                                             297224
+Fluch, Moritz                                                                 342373
+---------------------------------------------------------------------------------------
+Raumbuch
+----------
+1-Raum (Raumbezeichnung:, Raumnummer:)
+        Raumvolumen:8.0m³
+        Raumumfang:8.0m
+
+        Raumseitenfläche Brutto:16.0m²
+        Raumseitenfläche Netto:15.96m²
+
+Türliste:
+------------
+
+Fensterliste:
+------------
+1-Fenster (Höhe: 0.0m, Breite: 0.0m, Schallschutzklasse: 1, U-Wert: 0.0, Hersteller: 1, Brüstungshöhe: 0.0)
+2-Fenster (Höhe: 0.1m, Breite: 0.1m, Schallschutzklasse: 1, U-Wert: 0.0, Hersteller: 1, Brüstungshöhe: 0.0)
+
+---------------------------------------------------------------------------------------
+Ende des Berichts
+
+
+
+
+
+
+Müller, Thorben                                                               348238
+Köhler, Franziska                                                             297224
+Fluch, Moritz                                                                 342373
+---------------------------------------------------------------------------------------
+Raumbuch
+----------
+1-Raum (Raumbezeichnung:, Raumnummer:)
+        Raumvolumen:64.0m³
+        Raumumfang:16.0m
+
+        Raumseitenfläche Brutto:64.0m²
+        Raumseitenfläche Netto:59.16m²
+
+Türliste:
+------------
+
+Fensterliste:
+------------
+1-Fenster (Höhe: 0.0m, Breite: 0.0m, Schallschutzklasse: 1, U-Wert: 0.0, Hersteller: 1, Brüstungshöhe: 0.0)
+2-Fenster (Höhe: 1.1m, Breite: 1.1m, Schallschutzklasse: 1, U-Wert: 0.0, Hersteller: 1, Brüstungshöhe: 0.0)
+
+---------------------------------------------------------------------------------------
+Ende des Berichts
+
+
+
+
+
+
+Müller, Thorben                                                               348238
+Köhler, Franziska                                                             297224
+Fluch, Moritz                                                                 342373
+---------------------------------------------------------------------------------------
+Raumbuch
+----------
+1-Raum (Raumbezeichnung:, Raumnummer:)
+        Raumvolumen:88.0m³
+        Raumumfang:28.0m
+
+        Raumseitenfläche Brutto:56.0m²
+        Raumseitenfläche Netto:56.0m²
+
+Türliste:
+------------
+
+Fensterliste:
+------------
+
+---------------------------------------------------------------------------------------
+Ende des Berichts
+
+
+
+
+
+
+Müller, Thorben                                                               348238
+Köhler, Franziska                                                             297224
+Fluch, Moritz                                                                 342373
+---------------------------------------------------------------------------------------
+Raumbuch
+----------
+1-Raum (Raumbezeichnung:, Raumnummer:)
+        Raumvolumen:32.0m³
+        Raumumfang:14.0m
+
+        Raumseitenfläche Brutto:52.0m²
+        Raumseitenfläche Netto:1.7345175425633101m²
+
+Türliste:
+------------
+1-Tür (Höhe: 0.0m, Breite: 0.0m, Rauchschutz: True, Notausgang: True, Hersteller: 2)
+
+Fensterliste:
+------------
+
+---------------------------------------------------------------------------------------
+Ende des Berichts
+
+
+
+
+
+
+Müller, Thorben                                                               348238
+Köhler, Franziska                                                             297224
+Fluch, Moritz                                                                 342373
+---------------------------------------------------------------------------------------
+Raumbuch
+----------
+1-Raum (Raumbezeichnung:, Raumnummer:)
+        Raumvolumen:64.0m³
+        Raumumfang:16.0m
+
+        Raumseitenfläche Brutto:64.0m²
+        Raumseitenfläche Netto:36.794691556625395m²
+
+Türliste:
+------------
+1-Tür (Höhe: 2m, Breite: 2m, Rauchschutz: True, Notausgang: True, Hersteller: 2)
+
+Fensterliste:
+------------
+1-Fenster (Höhe: 0.0m, Breite: 0.0m, Schallschutzklasse: 5, U-Wert: 0.0, Hersteller: 2, Brüstungshöhe: 0.0)
+
+---------------------------------------------------------------------------------------
+Ende des Berichts
+
+
